@@ -3,7 +3,7 @@ Springboard Capstone 1 Repository
 
 Hello! My name is Michael Buck and welcome to the repository for my first Springboard capstone project!
 
-In this project I used the lyrical data from the Billboard Hot 100 songs from 1965-2015 to construct an XGBoost classification algorithm. You can read my final report which covers the highlights of the project and read through the powerpoint that I wrote to highlight some of the most impotant features. 
+In this project I used the lyrical data from the Billboard Hot 100 songs from 1965-2015 to construct a classification model whose goal was to determine what decade a song was from based on its lyrical content. You can read my final report which covers the highlights of the project and read through the powerpoint that I wrote to highlight some of the most impotant features. 
 
 If you would like to see the in depth portions of the project, each folder here encompasses a smaller part of the project that I had to complete and submit. The chronological order that each folder was written in is as follows:
 1. Data Wrangling
